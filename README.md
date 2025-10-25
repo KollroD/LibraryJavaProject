@@ -22,7 +22,7 @@ A simple console-based library management system for storing and managing book i
 
 1. **Navigate to project directory:**
    ```bash
-   cd F:\Work\LibraryJavaProject
+   cd __YOUR_PATH_TO_PROJECT__
 
 2. Compile all Java files:
 
