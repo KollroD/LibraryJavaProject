@@ -12,17 +12,6 @@ A simple console-based library management system for storing and managing book i
 - 📥 Load library data from file
 - 🚪 Clean exit with data persistence
 
-## 🏗️ Project Structure
-LibraryManager/
-├── src/
-│ ├── model/
-│ │ └── Book.java # Book entity class
-│ ├── service/
-│ │ └── LibraryManager.java # Main application logic
-│ └── main/
-│ └── Main.java # Entry point
-└── bin/ # Compiled classes
-
 ## 🛠️ Installation & Compilation
 
 ### Prerequisites
