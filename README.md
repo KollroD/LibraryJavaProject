@@ -22,7 +22,7 @@ A simple console-based library management system for storing and managing book i
 
 1. **Navigate to project directory:**
    ```bash
-   cd F:\Work\formasha
+   cd F:\Work\LibraryJavaProject
 
 2. Compile all Java files:
 
